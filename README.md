@@ -18,6 +18,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+### Signing Up
 <img src='https://media.giphy.com/media/h9ezGJ5EH0DE2yRhZL/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+### Logging Im
 <img src='https://media.giphy.com/media/T7MU3RiiroTcwkfrvY/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+### Creating a Post
 <img src='https://media.giphy.com/media/QDPWv2ridWrJbBLYVR/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
