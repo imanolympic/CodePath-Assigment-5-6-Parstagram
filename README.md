@@ -22,7 +22,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/h9ezGJ5EH0DE2yRhZL/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-### Logging Im
+### Logging In
 
 <img src='https://media.giphy.com/media/T7MU3RiiroTcwkfrvY/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
