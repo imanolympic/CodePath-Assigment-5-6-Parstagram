@@ -14,21 +14,21 @@ This is an Instagram clone with a custom Parse backend that allows a user to pos
 
 ## Video Walkthroughs
 Here's a walkthrough of implemented user stories:
-
+  
 ### Signing Up
-<img src='https://media.giphy.com/media/h9ezGJ5EH0DE2yRhZL/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://media.giphy.com/media/h9ezGJ5EH0DE2yRhZL/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />   
+  
 ### Logging In
-<img src='https://media.giphy.com/media/T7MU3RiiroTcwkfrvY/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://media.giphy.com/media/T7MU3RiiroTcwkfrvY/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />  
+  
 ### Creating a Post
-<img src='https://media.giphy.com/media/QDPWv2ridWrJbBLYVR/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://media.giphy.com/media/QDPWv2ridWrJbBLYVR/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />  
+  
 ## Logging Out
-<img src='https://media.giphy.com/media/SUM1nU2RNFS2nUjDx8/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://media.giphy.com/media/SUM1nU2RNFS2nUjDx8/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />  
+  
 ## Authentication State Persistence
-<img src='https://media.giphy.com/media/bUZ1UvBYkTFonb6yEw/giphy.gif' width='' alt='Video Walkthrough' />
-
+<img src='https://media.giphy.com/media/bUZ1UvBYkTFonb6yEw/giphy.gif' width='' alt='Video Walkthrough' />  
+  
 ## Posting a comment
-<img src='https://media.giphy.com/media/7xwD0SXcY28Ii0Rc6d/giphy.gif' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/7xwD0SXcY28Ii0Rc6d/giphy.gif' width='' alt='Video Walkthrough' />  
